@@ -1,12 +1,12 @@
 #image {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    }
-    
-    img {
-       margin:auto;
-    }
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+img {
+  margin: auto;
+}

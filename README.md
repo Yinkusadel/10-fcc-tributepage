@@ -1,6 +1,6 @@
-# Project Name
+# Tribute Page 
 
-> One paragraph statement about the project.
+> A tribute page built with html and css 
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- h1, p, h3, h2
+- figure
+- figcaption 
+- section
+- ul, li
+- blockquote
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](10-fcc-tributepage.netlify.app)
 
 ### Development (Running locally)
 

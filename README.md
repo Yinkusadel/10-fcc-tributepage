@@ -1,6 +1,6 @@
-# Tribute Page 
+# Tribute Page
 
-> A tribute page built with html and css 
+> A tribute page built with html and css
 
 ![screenshot](./app_screenshot.png)
 
@@ -11,7 +11,7 @@ Additional description of the project and its features.
 - html
 - h1, p, h3, h2
 - figure
-- figcaption 
+- figcaption
 - section
 - ul, li
 - blockquote

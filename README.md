@@ -8,14 +8,21 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- h1, p, h3, h2
-- figure
-- figcaption
-- section
-- ul, li
-- blockquote
-- CSS
+- ### HTML5 elements
+  - **Heading element**
+    `h1` `h2` `h3`
+  - **Block element**
+    `p` `figure` `figcaption` `section` `blockquote`
+  - **unordered list**
+    `ul` `li`
+- ### CSS properties
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `id selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 

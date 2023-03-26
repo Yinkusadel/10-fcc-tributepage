@@ -1,6 +1,6 @@
 # Tribute Page
 
-> A tribute page built with html and css
+> A tribute page webpage built using CSS typography, styling of text and adjusting of height .
 
 ![screenshot](./app_screenshot.png)
 

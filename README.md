@@ -1,6 +1,6 @@
-# Project Name
+# Tribute Page
 
-> One paragraph statement about the project.
+> A tribute page webpage built using CSS typography, styling of text and adjusting of height .
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,32 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Heading element**
+    `h1` `h2` `h3`
+  - **Block element**
+    `p` `figure` `figcaption` `section` `blockquote`
+  - **unordered list**
+    `ul` `li`
+- ### CSS properties
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `id selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](10-fcc-tributepage.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/Yinkusadel/10-fcc-tributepage/pull/2
 
 ```
 
@@ -70,9 +82,10 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@yinkusadel](https://github.com/yinkusadel)
+- Twitter: [@HashiraAdel](https://twitter.com/HashiraAdel)
+- Linkedin: [@adeleyeolayinka](https://www.linkedin.com/in/adeleye-olayinka/)
+- FreeCodeCamp: [@yinkusadel](https://www.freecodecamp.org/Yinkusadel)
 
 ## 🤝 Contributing
 
@@ -86,9 +99,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- FreeCodeCamp: [@fcc-css-flexbox-photo-gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
 
 ## 📝 License
 
